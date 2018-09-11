@@ -42,7 +42,8 @@ function currentLine(mondayRush){
     }
     
     return `The line is currently: ${ arr.join(", ") }`; // used array join method to combine array into list with a "," and space. Return must be outside of loop or will break immediately.
-  }
+
+    }
 }
 
   
